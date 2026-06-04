@@ -1,6 +1,4 @@
-
-
-**Контакты:** Салват | @kira_the_jester | Казань | [GitHub](https://github.com/kira42-dev)
+ Салват | @kira_the_jester | Казань | [GitHub](https://github.com/kira42-dev)
 
 ---
 
