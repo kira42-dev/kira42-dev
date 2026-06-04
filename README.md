@@ -17,10 +17,6 @@ JavaScript (ES6)  |  Python  |  HTML/CSS  |  Git  |  API (REST)  |  Playwright
 - [Исходный код](https://github.com/kira42-dev/survivors-game)
 - [Поиграть](https://kira42-dev.github.io/survivors-game/)
 
-### Бот для автоматизации (Python)
-Бот для бронирования временных слотов с автоматическим решением капч. Асинхронная архитектура (asyncio, Playwright), интеграция со сторонними API.
-- [Исходный код](https://github.com/kira42-dev/goida)
-
 ### Сайт колледжа
 Переписал фронтенд-часть сайта учебного заведения (HTML/CSS/JS).
 - [Живой сайт](https://www.kstu.ru/1leveltest.jsp?idparent=1180)
