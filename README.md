@@ -23,7 +23,11 @@ Backend: Node.js/Express + SQLite. Frontend: SPA на чистом HTML/CSS/JS. 
 
 ### Hill Climb Racing
 Гоночная игра с процедурной генерацией трассы на Unity.
-- [Исходный код](https://github.com/kira42-dev/game)
+- [Исходный код](https://github.com/kira42-dev/hill-climb-js)
+
+### Telegram Bot Habit Tracker
+Бот для отслеживания привычек с напоминаниями и статистикой. Python, python-telegram-bot, SQLite, asyncio.
+- [Исходный код](https://github.com/kira42-dev/habit-tracker-bot)
 
 ---
 
